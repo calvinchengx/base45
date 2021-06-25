@@ -1,6 +1,6 @@
 name: base45
 description: A simple base45 library to perform utf8 string encoding and decoding. base45 is an internet draft and designed for efficient, compact encoding for QR code.
-version: 0.0.2
+version: 0.0.3
 repository: https://github.com/calvinchengx/base45
 
 environment:
