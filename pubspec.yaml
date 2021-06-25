@@ -1,6 +1,7 @@
 name: base45
 description: base45 encoding and decoding
 version: 0.0.1
+repository: https://github.com/calvinchengx/base45
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
